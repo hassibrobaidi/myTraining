@@ -1,2 +1,2 @@
 # myTraining
-Training Modules
+Training Modules version 0.1
